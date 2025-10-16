@@ -34,7 +34,8 @@ print("-------------------------------------------\n"
 #
 # Write your code below:
 
-
+for i in range(5):
+    print ("Hello Class , My name is Syed.")
 # Task 2: Counting with for loops
 # -------------------------------------------
 print("-------------------------------------------\n"
@@ -52,6 +53,8 @@ print("-------------------------------------------\n"
 #     print(i)
 #
 # Write your code below:
+for i in range(1,11):
+  print (i)
 
 
 # Task 3: Using for loops with user input
@@ -72,7 +75,8 @@ print("-------------------------------------------\n"
 #
 # Write your code below:
 
-
+for i in range(1,11):
+    print("My answer is", i+1)
 # -------------------------------------------
 # Submitting Your Work (after Tasks 1–3)
 # -------------------------------------------
